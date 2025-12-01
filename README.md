@@ -2,6 +2,8 @@
 
 ## Hi :^)
 
+PGP: `B4A9 DE7B 3C69 0607 3BB7 6243 3769 BA40 D2B4 2109`
+
 ---
 
 **Guestbook** ([moscovium-mc/readme-guestbook](https://github.com/moscovium-mc/readme-guestbook))
