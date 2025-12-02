@@ -1,5 +1,10 @@
 <div align="center">
-
+<p align='center'>
+ <a href='https://github.com/sponsors/moscovium-mc'>
+  <img src='https://github.com/moscovium-mc/moscovium-mc/raw/main/sponsor.png' width=150 />
+ </a>
+</p>
+  
 ## Hi :^)
 
 PGP: `B4A9 DE7B 3C69 0607 3BB7 6243 3769 BA40 D2B4 2109`
