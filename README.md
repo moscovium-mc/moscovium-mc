@@ -1,11 +1,5 @@
 <div align="center">
 
-<p align='center'>
- <a href='https://github.com/sponsors/moscovium-mc'>
-  <img src='https://github.com/moscovium-mc/moscovium-mc/raw/main/sponsor.png' width=150 />
- </a>
-</p>
-
 ## Hi :^)
 
 ### stax <rp>(</rp><rt><kbd>/stæks/</kbd></rt><rp>)</rp><br /><rp>(</rp><rt>a.k.a <q>staxy with the good hair</q></rt><rp>)</rp>
