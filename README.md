@@ -25,6 +25,7 @@ Your support keeps these tools free and actively maintained.
   <img src="https://github.com/moscovium-mc/moscovium-mc/raw/main/guestbook.gif" alt="Sign my guestbook!">
 </a>
 
+![Signatures](https://img.shields.io/github/issues-closed/moscovium-mc/guestbook?label=signatures&color=brightgreen)
 </div>
 
 [@knightingalelmao](https://github.com/knightingalelmao) says:
