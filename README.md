@@ -7,6 +7,7 @@
 Developer & security researcher building OSINT, offensive and defensive security tools.
 
 <!-- [![wakatime](https://wakatime.com/badge/user/eea2a2b6-c7de-4fd5-af01-3c1ad9094866.svg)](https://wakatime.com/@eea2a2b6-c7de-4fd5-af01-3c1ad9094866) -->
+<!-- [![Since Nov 19 2025](https://img.shields.io/badge/Since-Nov%2019%202025-00ADD8?style=flat&logo=wakatime)](https://wakatime.com/@eea2a2b6-c7de-4fd5-af01-3c1ad9094866) -->
 
 <img src="https://img.shields.io/badge/PGP-3776AB?style=plastic&logo=gnuprivacyguard&logoColor=white" alt="PGP"> `B4A9 DE7B 3C69 0607 3BB7 6243 3769 BA40 D2B4 2109`
 
