@@ -3,7 +3,7 @@
 ## Hi :^)
 
 ### stax <rp>(</rp><rt><kbd>/stæks/</kbd></rt><rp>)</rp><br /><rp>(</rp><rt>a.k.a <q>staxy with the good hair</q></rt><rp>)</rp>
-Developer & security researcher building OSINT, offensive and defensive security tools for the infosec community.
+Developer & security researcher building OSINT, offensive and defensive security tools.
 
 <img src="https://img.shields.io/badge/PGP-3776AB?style=plastic&logo=gnuprivacyguard&logoColor=white" alt="PGP"> `B4A9 DE7B 3C69 0607 3BB7 6243 3769 BA40 D2B4 2109`
 
