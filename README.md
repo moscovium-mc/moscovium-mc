@@ -23,7 +23,7 @@ Your support keeps these tools free and actively maintained.
 
 ---
 
-**Guestbook** ([moscovium-mc/guestbook](https://github.com/moscovium-mc/guestbook))
+**[Guestbook](https://github.com/moscovium-mc/guestbook)**
 
 <a href="https://github.com/moscovium-mc/guestbook/issues/new?title=Guestbook%20Entry">
   <img src="https://github.com/moscovium-mc/moscovium-mc/raw/main/guestbook.gif" alt="Sign my guestbook!">
