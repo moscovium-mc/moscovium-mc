@@ -5,8 +5,7 @@
 ### stax <rp>(</rp><rt><kbd>/stæks/</kbd></rt><rp>)</rp><br /><rp>(</rp><rt>a.k.a <q>staxy with the good hair</q></rt><rp>)</rp>
 <a href="https://moscovium.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=plastic&logo=netlify&logoColor=white" alt="Portfolio"></a>
 
-<!-- [![wakatime](https://wakatime.com/badge/user/eea2a2b6-c7de-4fd5-af01-3c1ad9094866.svg)](https://wakatime.com/@eea2a2b6-c7de-4fd5-af01-3c1ad9094866) -->
-<!-- [![Since Nov 19 2025](https://img.shields.io/badge/Since-Nov%2019%202025-00ADD8?style=flat&logo=wakatime)](https://wakatime.com/@eea2a2b6-c7de-4fd5-af01-3c1ad9094866) -->
+[![wakatime](https://wakatime.com/badge/user/eea2a2b6-c7de-4fd5-af01-3c1ad9094866.svg)](https://wakatime.com/@eea2a2b6-c7de-4fd5-af01-3c1ad9094866)
 
 <img src="https://img.shields.io/badge/PGP-3776AB?style=plastic&logo=gnuprivacyguard&logoColor=white" alt="PGP"> `B4A9 DE7B 3C69 0607 3BB7 6243 3769 BA40 D2B4 2109`
 
