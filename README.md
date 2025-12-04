@@ -32,8 +32,3 @@ Your support keeps these tools free and actively maintained.
 ![Signatures](https://img.shields.io/github/issues-closed/moscovium-mc/guestbook?label=signatures&color=brightgreen)
 
 </div>
-
-[@knightingalelmao](https://github.com/knightingalelmao) says:
-> Praise to the spam god for bringing all of us nerds together! Happy Holidays Stax! <3
-
-*12/02/2025*
