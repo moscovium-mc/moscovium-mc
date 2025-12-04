@@ -3,7 +3,7 @@
 ## Hi :^)
 
 ### stax <rp>(</rp><rt><kbd>/stæks/</kbd></rt><rp>)</rp><br /><rp>(</rp><rt>a.k.a <q>staxy with the good hair</q></rt><rp>)</rp>
-<a href="https://moscovium.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=plastic&logo=netlify&logoColor=white" alt="Portfolio"></a>
+<a href="https://moscovium.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=plastic&logo=netlify&logoColor=white" alt="Portfolio"></a>
 
 [![wakatime](https://wakatime.com/badge/user/eea2a2b6-c7de-4fd5-af01-3c1ad9094866.svg)](https://wakatime.com/@eea2a2b6-c7de-4fd5-af01-3c1ad9094866)
 
