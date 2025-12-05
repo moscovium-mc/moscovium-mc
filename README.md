@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi :^)
+## Hi 
 
 ### stax <rp>(</rp><rt><kbd>/stæks/</kbd></rt><rp>)</rp><br /><rp>(</rp><rt>a.k.a <q>staxy with the good hair</q></rt><rp>)</rp>
 <a href="https://moscovium.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=plastic&logo=netlify&logoColor=white" alt="Portfolio"></a>
