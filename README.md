@@ -1,14 +1,20 @@
 <div align="center">
 
-## Hi 
-
+## Hi
 ### stax <rp>(</rp><rt><kbd>/stæks/</kbd></rt><rp>)</rp><br /><rp>(</rp><rt>a.k.a <q>staxy with the good hair</q></rt><rp>)</rp>
-<a href="https://moscovium.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=plastic&logo=netlify&logoColor=white" alt="Portfolio"></a>
 
+
+<br />
+
+<a href="https://moscovium.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=plastic&logo=netlify&logoColor=white" alt="Portfolio"></a>
 [![wakatime](https://wakatime.com/badge/user/eea2a2b6-c7de-4fd5-af01-3c1ad9094866.svg?cachebuster=1)](https://wakatime.com/@eea2a2b6-c7de-4fd5-af01-3c1ad9094866)
 
+<br />
 
-<img src="https://img.shields.io/badge/PGP-3776AB?style=plastic&logo=gnuprivacyguard&logoColor=white" alt="PGP"> `B4A9 DE7B 3C69 0607 3BB7 6243 3769 BA40 D2B4 2109`
+<img src="https://img.shields.io/badge/PGP-3776AB?style=plastic&logo=gnuprivacyguard&logoColor=white" alt="PGP"><br />
+<code>B4A9 DE7B 3C69 0607 3BB7 6243 3769 BA40 D2B4 2109</code>
+
+<br />
 
 ---
 
@@ -16,7 +22,11 @@
 
 Your support keeps these tools free, open-source, and actively maintained.
 
+<br />
+
 <a href="https://buymeacoffee.com/webmoney"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=plastic&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
+
+<br />
 
 **Crypto Donations**
 
@@ -38,6 +48,8 @@ Your support keeps these tools free, open-source, and actively maintained.
 <td><code>86zv6vTDuG35sdBzBpwVAsD71hbt2gjH14qiesyrSsMkUAWHQkPZyY9TreeQ5dXRuP57yitP4Yn13SQEcMK4MhtwFzPoRR1</code></td>
 </tr>
 </table>
+
+<br />
 
 ---
 
