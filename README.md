@@ -1,6 +1,5 @@
 <div align="center">
 
-## Hi
 ### stax <rp>(</rp><rt><kbd>/stæks/</kbd></rt><rp>)</rp><br /><rp>(</rp><rt>Full Stack Development, Infosec, Security Tooling</rt><rp>)</rp>
 
 <br />
