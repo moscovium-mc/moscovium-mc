@@ -51,6 +51,9 @@ Your support keeps these tools free, open-source, and actively maintained.
 
 ---
 
+<!-- **[Guestbook](https://github.com/moscovium-mc/guestbook)** -->
+
+<!--
 **[Guestbook](https://github.com/moscovium-mc/guestbook)**
 
 <a href="https://github.com/moscovium-mc/guestbook/issues/new/choose">
@@ -58,5 +61,6 @@ Your support keeps these tools free, open-source, and actively maintained.
 </a>
 
 ![Signatures](https://img.shields.io/github/issues-closed/moscovium-mc/guestbook?label=signatures&color=brightgreen)
+-->
 
 </div>
