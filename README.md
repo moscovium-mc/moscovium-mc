@@ -51,14 +51,14 @@ Your support keeps these tools free, open-source, and actively maintained.
 
 ---
 
-**[Guestbook](https://github.com/moscovium-mc/guestbook)** 
+<!-- **[Guestbook](https://github.com/moscovium-mc/guestbook)** -->
 
-**[Guestbook](https://github.com/moscovium-mc/guestbook)**
-
+<!--
 <a href="https://github.com/moscovium-mc/guestbook/issues/new/choose">
   <img src="https://github.com/moscovium-mc/moscovium-mc/raw/main/guestbook.gif" alt="Sign my guestbook!">
 </a>
 
 ![Signatures](https://img.shields.io/github/issues-closed/moscovium-mc/guestbook?label=signatures&color=brightgreen)
+<!--
 
 </div>
