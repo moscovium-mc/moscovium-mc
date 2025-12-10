@@ -20,31 +20,31 @@ your support keeps these tools free, open-source, and actively maintained.
 
 ### crypto donations
 
-**bitcoin**  
+![bitcoin](https://img.shields.io/badge/bitcoin-000000?style=flat&logo=bitcoin&logoColor=white)  
 ```
 bc1quavqz6cxqzfy4qtvq4zxc4fjgap3s7cmxja0k4
 ```
 
-**ethereum**  
+![ethereum](https://img.shields.io/badge/ethereum-627EEA?style=flat&logo=ethereum&logoColor=white)  
 ```
 0x5287af72afbc152b09b3bf20af3693157db9e425
 ```
 
-**solana**  
+![solana](https://img.shields.io/badge/solana-9945FF?style=flat&logo=solana&logoColor=white)  
 ```
 HYZjfEx8NbEMJX1vL1GmGj39zA6TgMsHm5KCHWSZxF4j
 ```
 
-**monero**  
+![monero](https://img.shields.io/badge/monero-FF6600?style=flat&logo=monero&logoColor=white)  
 ```
 86zv6vTDuG35sdBzBpwVAsD71hbt2gjH14qiesyrSsMkUAWHQkPZyY9TreeQ5dXRuP57yitP4Yn13SQEcMK4MhtwFzPoRR1
 ```
 
 ---
-<!---
+<!--
 ## links
 
 **[guestbook](https://github.com/moscovium-mc/guestbook)** • **[sign it](https://github.com/moscovium-mc/guestbook/issues/new/choose)**
 
-![signatures](https://img.shields.io/github/issues-closed/moscovium-mc/guestbook?label=signatures&color=brightgreen) 
+![signatures](https://img.shields.io/github/issues-closed/moscovium-mc/guestbook?label=signatures&color=brightgreen)
 -->
