@@ -41,10 +41,10 @@ HYZjfEx8NbEMJX1vL1GmGj39zA6TgMsHm5KCHWSZxF4j
 ```
 
 ---
-<!--
+
 ## links
 
 **[guestbook](https://github.com/moscovium-mc/guestbook)** • **[sign it](https://github.com/moscovium-mc/guestbook/issues/new/choose)**
 
 ![signatures](https://img.shields.io/github/issues-closed/moscovium-mc/guestbook?label=signatures&color=brightgreen)
--->
+
