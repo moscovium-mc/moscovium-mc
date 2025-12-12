@@ -58,13 +58,13 @@ I'm always open to connecting with fellow developers, security researchers, and 
 Don't hesitate to contact me if you have any questions, suggestions, or if you'd like to discuss software development, cybersecurity, tool creation, or potential collaborations. I look forward to connecting with you!
 
 
-### PGP Key
+## PGP Key
 ```
 B4A9 DE7B 3C69 0607 3BB7 6243 3769 BA40 D2B4 2109
 ```
 
 
-### Links & Resources
+## Links & Resources
 
 [![portfolio](https://img.shields.io/badge/portfolio-00C7B7?style=flat&logo=netlify&logoColor=white)](https://moscovium.netlify.app/)
 [![wakatime](https://wakatime.com/badge/user/eea2a2b6-c7de-4fd5-af01-3c1ad9094866.svg)](https://wakatime.com/@eea2a2b6-c7de-4fd5-af01-3c1ad9094866)
@@ -73,13 +73,13 @@ B4A9 DE7B 3C69 0607 3BB7 6243 3769 BA40 D2B4 2109
 
 ![Signatures](https://img.shields.io/github/issues-closed/moscovium-mc/guestbook?label=signatures&color=brightgreen)
 
-### Support
+## Support
 
 Your support keeps these tools free, open-source, and actively maintained.
 
 [![Buy Me A Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/webmoney)
 
-### crypto donations
+## Crypto Donations
 
 ![bitcoin](https://img.shields.io/badge/bitcoin-000000?style=flat&logo=bitcoin&logoColor=white)  
 ```
