@@ -1,5 +1,3 @@
-# Hello! 
-
 Welcome to my GitHub profile! I'm a full stack developer and security researcher with 13 years of hands-on experience creating dynamic, scalable applications and building OSINT and cybersecurity tools. I specialize in developing responsive user interfaces, server-side solutions, and security research utilities that work seamlessly across platforms.
 
 I bring together expertise in modern web development with React, Next.js, Node.js, and TypeScript, alongside deep security knowledge in Python and Bash for penetration testing tools, OSINT reconnaissance, and automated security frameworks. I write clean, maintainable code and deliver comprehensive solutions—whether building RESTful APIs, implementing authentication systems, or developing reconnaissance tools.
