@@ -33,13 +33,10 @@ Throughout my career, I've developed full-stack applications, built security too
 
 My technical skills span across web development and security research:
 
-**Web Development:** React, Next.js, Node.js, JavaScript, TypeScript, HTML5, CSS, Tailwind CSS
-
-**Backend & Databases:** MongoDB, PostgreSQL, MySQL, RESTful API Design
-
-**Security & Scripting:** Python, Bash, Go, Penetration Testing, OSINT, Tool Development
-
-**DevOps & Tools:** Git, Docker, CI/CD, Vercel, Netlify, Cloud Platforms
+- **Web Development:** React, Next.js, Node.js, JavaScript, TypeScript, HTML5, CSS, Tailwind CSS
+- **Backend & Databases:** MongoDB, PostgreSQL, MySQL, RESTful API Design
+- **Security & Scripting:** Python, Bash, Go, Penetration Testing, OSINT, Tool Development
+- **DevOps & Tools:** Git, Docker, CI/CD, Vercel, Netlify, Cloud Platforms
 
 ## Interests
 
