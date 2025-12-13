@@ -9,8 +9,7 @@
 - Archives of corporate oopsies (`breach-lib*`) 
 - Tools that bypass things for science (`recon-bypass*`)  
 - Security utilities that raise eyebrows (`sec-toys*`)  
-- Web apps and automation side hustles
-
+- Web apps and other side projects
 ---
 
 ### stack
