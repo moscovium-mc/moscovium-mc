@@ -1,18 +1,18 @@
 <h1 align="center">stax</h1>
 <p align="center">
-  i fix what's broken and break what's fixed
+  I fix what's broken and break what's fixed
 </p>
 
 ---
 
-### focus
+### Focus
 - Archives of corporate oopsies (`breach-lib*`) 
 - Tools that bypass things for science (`recon-bypass*`)  
 - Security utilities that raise eyebrows (`sec-toys*`)  
 - Web apps and other side projects
 ---
 
-### stack
+### Stack
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -25,8 +25,8 @@
 
 ---
 
-### links
-[portfolio](https://moscovium.netlify.app/) • [email](mailto:pub.inbox@proton.me) • [github](https://github.com/moscovium-mc)
+### Links
+[Portfolio](https://moscovium.netlify.app/) • [Email](mailto:pub.inbox@proton.me) • [GitHub](https://github.com/moscovium-mc)
 
 [![wakatime](https://wakatime.com/badge/user/eea2a2b6-c7de-4fd5-af01-3c1ad9094866.svg)](https://wakatime.com/@eea2a2b6-c7de-4fd5-af01-3c1ad9094866)
 
@@ -35,22 +35,22 @@
 
 ---
 
-### support
+### Support
 Your support keeps these tools free, open-source, and actively maintained.
 
 [![Buy Me A Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/webmoney)
 
 **Crypto Donations**  
-![bitcoin](https://img.shields.io/badge/bitcoin-000000?style=flat&logo=bitcoin&logoColor=white)  
+![Bitcoin](https://img.shields.io/badge/bitcoin-000000?style=flat&logo=bitcoin&logoColor=white)  
 `bc1quavqz6cxqzfy4qtvq4zxc4fjgap3s7cmxja0k4`
 
-![ethereum](https://img.shields.io/badge/ethereum-627EEA?style=flat&logo=ethereum&logoColor=white)  
+![Ethereum](https://img.shields.io/badge/ethereum-627EEA?style=flat&logo=ethereum&logoColor=white)  
 `0x5287af72afbc152b09b3bf20af3693157db9e425`
 
-![solana](https://img.shields.io/badge/solana-9945FF?style=flat&logo=solana&logoColor=white)  
+![Solana](https://img.shields.io/badge/solana-9945FF?style=flat&logo=solana&logoColor=white)  
 `HYZjfEx8NbEMJX1vL1GmGj39zA6TgMsHm5KCHWSZxF4j`
 
-![monero](https://img.shields.io/badge/monero-FF6600?style=flat&logo=monero&logoColor=white)  
+![Monero](https://img.shields.io/badge/monero-FF6600?style=flat&logo=monero&logoColor=white)  
 `86zv6vTDuG35sdBzBpwVAsD71hbt2gjH14qiesyrSsMkUAWHQkPZyY9TreeQ5dXRuP57yitP4Yn13SQEcMK4MhtwFzPoRR1`
 
 ---
