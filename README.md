@@ -1,4 +1,4 @@
-<h1 align="center">stax</h1>
+
 <p align="center">
   I fix what's broken and break what's fixed
 </p>
