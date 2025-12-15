@@ -30,7 +30,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/eea2a2b6-c7de-4fd5-af01-3c1ad9094866.svg)](https://wakatime.com/@eea2a2b6-c7de-4fd5-af01-3c1ad9094866)
 
-**[Guestbook](https://github.com/moscovium-mc/guestbook)** • **[Sign It](https://github.com/moscovium-mc/guestbook/issues/new/choose)**  
+[Guestbook](https://github.com/moscovium-mc/guestbook) • [Sign It](https://github.com/moscovium-mc/guestbook/issues/new/choose)
 ![Signatures](https://img.shields.io/github/issues-closed/moscovium-mc/guestbook?label=signatures&color=brightgreen)
 
 ---
