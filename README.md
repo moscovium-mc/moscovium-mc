@@ -52,7 +52,6 @@ Your support keeps these tools free, open-source, and actively maintained.
 
 ---
 
-**PGP Key:** `B4A9 DE7B 3C69 0607 3BB7 6243 3769 BA40 D2B4 2109`
 
 <p align="center">
   <sub>⭐ star something. i'll know you were here.</sub>
