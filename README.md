@@ -25,9 +25,6 @@
 
 ---
 
-### Links
-[Portfolio](https://moscovium.netlify.app/) • [Email](mailto:pub.inbox@proton.me) • [GitHub](https://github.com/moscovium-mc)
-
 [![wakatime](https://wakatime.com/badge/user/eea2a2b6-c7de-4fd5-af01-3c1ad9094866.svg)](https://wakatime.com/@eea2a2b6-c7de-4fd5-af01-3c1ad9094866)
 
 ---
