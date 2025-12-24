@@ -12,7 +12,7 @@
 <sub>• Continuous "Proof by Exploitation" workflows in CI/CD pipelines</sub>
 
 <sub>**Experience**</sub>
-<sub>• Over decade of experience in full-spectrum adversarial simulation</sub>
+<sub>• Over a decade of experience in full-spectrum adversarial simulation</sub>
 <sub>• Specialist in the intersection of legacy protocol flaws and modern AI automation</sub>
 
 ---
