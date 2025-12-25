@@ -1,5 +1,5 @@
 
-<sub>**Security Architect & Researcher**</sub>
+<sub>**Developer & Researcher**</sub>
 
 ---
 
