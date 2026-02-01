@@ -1,15 +1,15 @@
 
-<sub>**Developer & Researcher**</sub>
+**Developer & Researcher**
 
 ---
 
-<sub>**Core Focus**</sub>
+**Core Focus**
 <br>
 <sub>Network Defense • Intrusion Detection • SQL Hardening • Legacy Security</sub>
 
 <br>
 
-<sub>**Active Research**</sub>
+**Active Research**
 <br>
 <sub>• Modernizing heuristic analysis for NIDS/IPS Frameworks</sub>
 <br>
@@ -19,7 +19,7 @@
 
 <br>
 
-<sub>**Experience**</sub>
+**Experience**
 <br>
 <sub>• Over a decade of experience in full-spectrum adversarial simulation</sub>
 <br>
@@ -31,6 +31,6 @@
 
 ---
 
-<sub>**Contact**</sub>
+**Contact**
 <br>
 <sub><a href="mailto:pub.inbox@proton.me">pub.inbox@proton.me</a></sub>
