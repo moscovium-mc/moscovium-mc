@@ -20,7 +20,7 @@ network defense • intrusion detection • sql hardening • legacy security
 
 [site](https://moscovium-mc.github.io/) • [github](https://github.com/moscovium-mc) • [email](mailto:pub.inbox@proton.me)
 
-If you find my projects useful, consider supporting my work:
+if you find my projects useful, consider supporting my work:
 
 <a href="https://buymeacoffee.com/webmoney" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40"></a>
 
