@@ -6,10 +6,10 @@
 ---
 
 ### projects
-- stripping cloudflare's mask (`cloudrip` python tool)  
-- 3.2B credentials at your fingertips (`breachpeek` python tool)  
-- browse repos without leaving your vscode editor (`github-repos` vscode extension)  
-- opsec & recon scripts for the freedom fighter (`ghost-protocol` collection of scripts)
+- stripping cloudflare's mask (`cloudrip`) (python tool)  
+- 3.2B credentials at your fingertips (`breachpeek`) (python tool)  
+- browse repos without leaving your vscode editor (`github-repos`) (vscode extension)  
+- opsec & recon scripts for the freedom fighter (`ghost-protocol`) (collection of scripts)
 
 ---
 
