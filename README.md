@@ -34,11 +34,3 @@
 <p align="center">
   <sub>one man can make a difference.</sub>
 </p>
-
----
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=ozXZnwYTMbs">
-    <img src="https://m.media-amazon.com/images/I/61Xk1PckmfL._UF1000,1000_QL80_.jpg" alt="Watch the video" width="600">
-  </a>
-</p>
