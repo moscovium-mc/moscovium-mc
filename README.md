@@ -28,7 +28,7 @@
 
 ---
 
-### contact
+### links
 [github](https://github.com/moscovium-mc) • [site](https://moscovium-mc.github.io) • [twitter](https://x.com/moscovium_mc)
 
 <p align="center">
