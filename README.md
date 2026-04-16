@@ -38,7 +38,7 @@
 ---
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=U7LZnMM268E">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f51defa4ef95b299c84383ed" alt="Watch the video" width="600">
+  <a href="https://www.youtube.com/watch?v=ozXZnwYTMbs">
+    <img src="https://m.media-amazon.com/images/I/61Xk1PckmfL._UF1000,1000_QL80_.jpg" alt="Watch the video" width="600">
   </a>
 </p>
