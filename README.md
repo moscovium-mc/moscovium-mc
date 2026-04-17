@@ -1,4 +1,4 @@
-<h1 align="center">moscovium-mc ⚛️</h1>
+<h1 align="center">moscovium-mc</h1>
 <p align="center">
   finding what hides in plain sight.
 </p>
