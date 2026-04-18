@@ -30,17 +30,6 @@
 
 ---
 
-### now playing
-<a href="https://www.youtube.com/watch?v=NRj-D_LiQ7I" target="_blank">
-  <img src="https://i1.sndcdn.com/artworks-000163373054-u3meur-t500x500.jpg" alt="Play on YouTube" width="200" style="border-radius: 12px;">
-</a>
-
-<p align="left">
-  <sub>click the image to play</sub>
-</p>
-
----
-
 ### links
 [github](https://github.com/moscovium-mc) • [site](https://moscovium-mc.github.io) • [twitter](https://x.com/moscovium_mc)
 
