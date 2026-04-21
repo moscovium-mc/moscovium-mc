@@ -31,7 +31,7 @@
 ---
 
 ### links
-[github](https://github.com/moscovium-mc) • [site](https://moscovium-mc.github.io) • [twitter](https://x.com/moscovium_mc)
+[github](https://github.com/moscovium-mc) • [site](https://moscovium-mc.github.io) • [twitter](https://x.com/m0scov1um)
 
 ---
 
