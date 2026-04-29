@@ -32,17 +32,6 @@
 
 ---
 
-### now playing
-<a href="https://www.youtube.com/watch?v=Np_NsRgb4Eg" target="_blank">
-  <img src="https://i1.sndcdn.com/artworks-000013094827-c6jlo1-t500x500.jpg" alt="Play on YouTube" width="200" style="border-radius: 12px;">
-</a>
-
-<p align="left">
-  <sub>click the image to play</sub>
-</p>
-
----
-
 <p align="center">
   <sub>one man can make a difference.</sub>
 </p>
