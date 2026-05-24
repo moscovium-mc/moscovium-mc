@@ -22,8 +22,6 @@
 ![Postgres](https://img.shields.io/badge/-Postgres-4169E1?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
-![wakatime](https://wakatime.com/badge/user/eea2a2b6-c7de-4fd5-af01-3c1ad9094866.svg)
-
 ---
 
 ### links
