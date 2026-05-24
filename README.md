@@ -25,7 +25,7 @@
 ---
 
 ### links
-[github](https://github.com/moscovium-mc) • [site](https://moscovium-mc.github.io)
+[github](https://github.com/moscovium-mc) • [site](https://moscovium-mc.github.io) • [guestbook](https://github.com/moscovium-mc/guestbook)
 
 ---
 
