@@ -1,15 +1,9 @@
-<h1 align="center">moscovium-mc</h1>
+# Hi, I'm moscovium-mc
 
----
+I'm a full stack developer and security researcher. I build web applications and I break things. On the dev side: TypeScript, Go, Python, Next.js, Postgres, MySQL, deployed on Netlify and Vercel. On the security side: Python and Bash for pentesting utilities, OSINT recon, credential exposure analysis, Cloudflare and WAF recon, vulnerability research, and exploit development. I maintain open-source security tools and prioritize clean architecture, maintainable codebases, and workflows that don't make you want to throw your laptop out a window.
 
-### trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moscovium-mc&theme=default&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
-</p>
+## Stack
 
----
-
-### stack
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -22,10 +16,17 @@
 ![Postgres](https://img.shields.io/badge/-Postgres-4169E1?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
----
+## Trophies
 
-### links
-[github](https://github.com/moscovium-mc) • [site](https://moscovium-mc.github.io) • [guestbook](https://github.com/moscovium-mc/guestbook)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=moscovium-mc&theme=default&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
+</p>
+
+## Links
+
+- GitHub: [github.com/moscovium-mc](https://github.com/moscovium-mc)
+- Site: [moscovium-mc.github.io](https://moscovium-mc.github.io)
+- Guestbook: [github.com/moscovium-mc/guestbook](https://github.com/moscovium-mc/guestbook)
 
 ---
 
