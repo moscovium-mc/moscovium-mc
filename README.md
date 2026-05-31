@@ -1,6 +1,6 @@
 # Hi, I'm moscovium-mc
 
-I'm a full stack developer and security researcher. I build web applications and I break things. On the dev side: TypeScript, Go, Python, Next.js, Postgres, MySQL, deployed on Netlify and Vercel. On the security side: Python and Bash for pentesting utilities, OSINT recon, credential exposure analysis, Cloudflare and WAF recon, vulnerability research, and exploit development. I maintain open-source security tools and prioritize clean architecture, maintainable codebases, and workflows that don't make you want to throw your laptop out a window.
+I'm a full stack developer and security researcher. I build web applications and I break things. On the dev side: TypeScript, Go, Python, Next.js, Postgres, MySQL, deployed on Netlify and Vercel. On the security side: Python and Bash for pentesting utilities, OSINT recon, credential exposure analysis, Cloudflare and WAF recon, vulnerability research, and exploit development. I maintain open-source security tools and prioritize clean maintainable codebases, and workflows that don't make you want to throw your laptop out a window.
 
 ## Stack
 
