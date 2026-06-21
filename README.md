@@ -6,14 +6,6 @@
 
 ---
 
-## Contact Me 
-  - Feel free to reach out, I'm always open to interesting conversations and collaborations.
-
-    - Discord:
-    ```
-    ret2sc
-    ```
-
 
 ## Donations/Support 
 
