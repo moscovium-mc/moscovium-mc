@@ -1,35 +1,13 @@
-<h1 align="center">Hello, friend.</h1>
-
-<p align="center">
-  I hope you find something interesting or useful.
-</p>
-
----
-
-
-## Donations/Support 
-
-If you'd like to support my work, you can buy me a coffee or send crypto directly:
-
-- **Buy Me a Coffee:**  
-  [https://buymeacoffee.com/webmoney](https://buymeacoffee.com/webmoney)
-
-- **Bitcoin (BTC)**
-  ```
-  bc1quavqz6cxqzfy4qtvq4zxc4fjgap3s7cmxja0k4
-  ```
-
-- **Ethereum (ETH)**
-  ```
-  0x5287af72afbc152b09b3bf20af3693157db9e425
-  ```
-  
-- **Solana (SOL)**
-  ```
-  HYZjfEx8NbEMJX1vL1GmGj39zA6TgMsHm5KCHWSZxF4j
-  ```
-
-- **Monero (XMR)**
-  ```
-  86zv6vTDuG35sdBzBpwVAsD71hbt2gjH14qiesyrSsMkUAWHQkPZyY9TreeQ5dXRuP57yitP4Yn13SQEcMK4MhtwFzPoRR1
-  ```
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white)
+![Postgres](https://img.shields.io/badge/-Postgres-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-Mysql-4169E1?logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-4169E1?logo=redis&logoColor=white)
