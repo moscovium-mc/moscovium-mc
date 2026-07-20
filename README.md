@@ -10,4 +10,3 @@
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white)
 ![Postgres](https://img.shields.io/badge/-Postgres-4169E1?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-Mysql-4169E1?logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-4169E1?logo=redis&logoColor=white)
