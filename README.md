@@ -10,3 +10,9 @@
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white)
 ![Postgres](https://img.shields.io/badge/-Postgres-4169E1?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-Mysql-4169E1?logo=mysql&logoColor=white)
+
+[![wakatime](https://wakatime.com/badge/user/eea2a2b6-c7de-4fd5-af01-3c1ad9094866.svg)](https://wakatime.com/@eea2a2b6-c7de-4fd5-af01-3c1ad9094866)
+
+![Moscovium's GitHub stats](https://github-stats-extended.vercel.app/api?username=moscovium-mc&show_icons=true&theme=default)
+
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=moscovium-mc&layout=compact&theme=default)
