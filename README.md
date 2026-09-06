@@ -16,5 +16,4 @@
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=moscovium-mc&layout=compact&theme=default)
 
 ![Signal](https://img.shields.io/badge/Signal-@digits.01-3A76F0?logo=signal&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-@digits.01-5865F2?logo=discord&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-@digits0x1-26A5E4?logo=telegram&logoColor=white)
